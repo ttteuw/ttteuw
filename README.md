@@ -1,4 +1,4 @@
-*/## Olá! Eu sou o Matheus Sales🖐️ <br/>
+--## Olá! Eu sou o Matheus Sales🖐️ <br/>
 [![Blog](https://img.shields.io/website?label=sujeitoprogramado.com&style=for-the-badge&url=https://ttteuw.github.io//Maratona-Explorer2.0/)](https://ttteuw.github.io/Maratona-Explorer2.0/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus.salezz)
